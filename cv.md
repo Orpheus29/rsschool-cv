@@ -2,12 +2,12 @@
 
 # Oleksii ANDRIUSHYN
 
-### Junior Frontend Developer
+### Frontend Developer
 ***
 
 ### Contact information:
 
-Phone: +38 067 4622023
+Phone: +38 067 462 2023
 
 E-mail: andriushyn.aleks@gmail.com
 
@@ -22,19 +22,19 @@ Telegram: [@orpheus29](https://t.me/orpheus29)
 
 ### Briefly About Myself:
 
-In the 10th grade, I first got acquainted with a computer. I loved Math, so I fell in love in this flawlessly organized digital world. I went straight into it.
+In the 10th grade, I first got acquainted with a computer. I loved Math, so I fell in love in this flawlessly organized digital world immediately.
 
-During school summer practice I wrote a computer program teaching the keyboard in a playful way. With the night sky, big letters flashing, several difficulty levels, etc.
+During school practice I wrote a computer program teaching the keyboard in a playful way. With the night sky, flashing big letters, several difficulty levels, etc.
 
-My teacher liked what he saw and even promoted this product to one company that desired to acquire it. No jokes.
+My teacher liked what he saw and even promoted this product to a company that later wanted to buy it. No jokes.
 
-And, of course, there was my pet project named Batty. That was a game with the bat flying all over the screen, collecting diamonds and putting them in the holes in the bottom of the screen. More than 30 years passed, but I feel like I’m still in there.
+And, of course, there was my pet project named 'Batty'. That was a simple game with the bat flying all over the screen collecting diamonds and placing them in the holes at the bottom of the screen. More than 30 years passed, but I feel like I’m still in there).
 
-Regretfully, there was no such profile as an IT worker back in 1991, so by advice of my father, military officer, I went to a military college and graduated as a journalist.
+Unfortunately, back in those days there was no such profile as an IT specialist, so on the advice of my father, a military officer, I entered a military college and graduated as a journalist.
 
 Now I am retired and full of hopes to make my old dream come true.
 
-While in the military, I had a chance to lay out magazines. I loved it as much as my co-workers loved what I do, so today I'm choosing FrontEnd as a priority.
+While in the military, I happened to lay out magazines. I loved it just as much as my co-workers loved what I do, so today I choose FrontEnd as my future profession.
 
 By this time, I have already completed several Internet courses on HTML, CSS, and JavaScript.
 
