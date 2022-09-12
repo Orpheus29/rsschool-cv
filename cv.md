@@ -74,16 +74,16 @@ CyberBionic Systematics:
 
 - HTML5 & CSS3 Starter (completed)
 
-![Certificate TP77375222](https://user-images.githubusercontent.com/110335429/189489173-3d0abb6d-93d2-464c-9aa5-1f69dc4c7635.jpg "Oleksii ANDRIUSHYN's HTML5 & CSS3 Starter Certificate")
+<img alt="Oleksii ANDRIUSHYN's HTML5 & CSS3 Starter Certificate TP77375222" width="603" height="426" title="Oleksii ANDRIUSHYN's HTML5 & CSS3 Starter Certificate" src="https://user-images.githubusercontent.com/110335429/189489173-3d0abb6d-93d2-464c-9aa5-1f69dc4c7635.jpg">
 
 - JS Starter (completed)
- 
-![Certificate TP91625898](https://user-images.githubusercontent.com/110335429/189489222-419f1a1b-5905-4658-a60d-be4b4dd9db28.jpg "Oleksii ANDRIUSHYN's JS Starter Certificate")
 
+<img alt="Oleksii ANDRIUSHYN's JS Starter Certificate TP91625898" width="603" height="426" title="Oleksii ANDRIUSHYN's JS Starter Certificate" src="https://user-images.githubusercontent.com/110335429/189489222-419f1a1b-5905-4658-a60d-be4b4dd9db28.jpg">
+ 
 - JS Basic (completed)
- 
-![Certificate TP96540211](https://user-images.githubusercontent.com/110335429/189489336-d51dd05f-7e7a-4c08-89a6-bc332a3c98dd.jpg "Oleksii ANDRIUSHYN's JS Basic Certificate")
 
+<img alt="Oleksii ANDRIUSHYN's JS Basic Certificate TP96540211" width="603" height="426" title="Oleksii ANDRIUSHYN's JS Basic Certificate" src="https://user-images.githubusercontent.com/110335429/189489336-d51dd05f-7e7a-4c08-89a6-bc332a3c98dd.jpg">
+ 
 - HTML5 & CSS3 Basic (in progress)
 
 ***
